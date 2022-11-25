@@ -1,0 +1,12 @@
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\bin\Release\clickIClone.exe.config
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\bin\Release\clickIClone.exe
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\bin\Release\clickIClone.pdb
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\obj\Release\clickIClone.csprojResolveAssemblyReference.cache
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\obj\Release\clickIClone.exe
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\obj\Release\clickIClone.pdb
+E:\work_ref\vs2013\clickIClone8\clickIClone\clickIClone\bin\Release\clickIClone.exe.config
+E:\work_ref\vs2013\clickIClone8\clickIClone\clickIClone\obj\Release\clickIClone.exe
+E:\work_ref\vs2013\clickIClone8\clickIClone\clickIClone\obj\Release\clickIClone.pdb
+E:\work_ref\vs2013\clickIClone8\clickIClone\clickIClone\bin\Release\clickIClone.exe
+E:\work_ref\vs2013\clickIClone8\clickIClone\clickIClone\bin\Release\clickIClone.pdb
+E:\work_ref\vs2013\clickIClone8\clickIClone\clickIClone\obj\Release\clickIClone.csprojResolveAssemblyReference.cache

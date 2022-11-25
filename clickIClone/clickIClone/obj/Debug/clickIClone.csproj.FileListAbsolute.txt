@@ -1,0 +1,6 @@
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\bin\Debug\clickIClone.exe.config
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\bin\Debug\clickIClone.exe
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\bin\Debug\clickIClone.pdb
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\obj\Debug\clickIClone.csprojResolveAssemblyReference.cache
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\obj\Debug\clickIClone.exe
+E:\work_ref\vs2013\clickIClone\clickIClone\clickIClone\obj\Debug\clickIClone.pdb
